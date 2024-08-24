@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "01_fasthtml_practice.html",
+    "href": "01_fasthtml_practice.html",
+    "title": "nbdev_fasthtml",
+    "section": "",
+    "text": "app, rt = fast_app()\n\n\nrt(path=\"/\")\ndef get():\n    return Div(title=\"Inayet Title\", target_id=\"home\")\n\n\nget()\n\n&lt;div hx-target=\"#home\" title=\"Inayet Title\"&gt;&lt;/div&gt;",
+    "crumbs": [
+      "01_fasthtml_practice.html"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_fasthtml",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "nbdev_fasthtml"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_fasthtml",
+    "section": "Install",
+    "text": "Install\npip install nbdev_fasthtml",
+    "crumbs": [
+      "nbdev_fasthtml"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_fasthtml",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "nbdev_fasthtml"
+    ]
+  }
+]
