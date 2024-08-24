@@ -4,6 +4,3 @@ website:
       - index.ipynb
       - 00_core.ipynb
       - 01_fasthtml_practice.ipynb
-      - nbdev.yml
-      - sidebar.yml
-      - styles.css
