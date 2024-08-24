@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_fasthtml"
+  site-url: "https://inayet.github.io/nbdev_fasthtml"
+  description: "Using nbdev  and fasthtml in learning process"
+  repo-branch: main
+  repo-url: "https://github.com/inayet/nbdev_fasthtml"
